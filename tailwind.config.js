@@ -7,22 +7,14 @@ module.exports = {
       bebas: ["Bebas Neue", "cursive"],
       poppins: ["Poppins", "sans-serif"],
     },
-    /*
-    colors: {
-      background: "#000000",
-      primary: "#FFFFFF",
-      secondary: "#9E9E9E",
-      active: "#F40812",
-      light: "#121212",
-    },
-    */
+    
     // Work in progress color scheme
     colors: {
-      background: "#ACF2E5",
-      primary: "#F2622E",
-      secondary: "#F28D35",
-      active: "#F2762E",
-      light: "#5EBFAD",
+      background: "#2d444b",
+      primary: "#FFFFFF",
+      secondary: "#878189",
+      active: "#20cc7b",
+      light: "#ffffff",
     },
   },
 
